@@ -1,0 +1,35 @@
+.container1{
+	background-color: #F2E3BC;
+}
+
+.form1{
+	background-color: #F2E3BC;
+	width: 303px;
+	box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.8);
+	margin: auto;
+	padding: 15px;
+	border: 3px solid #F2E3BC;
+}
+
+#submit{
+	background-color: #007090;
+	color: white;
+
+}
+label{
+	font-weight: bold;
+	font-style: italic;
+	font-family: Gill Sans MT;
+
+}
+
+body{
+	background-image: url('https://img.freepik.com/free-vector/abstract-light-shapes-geometric-background-business-advertising_1017-42845.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+h1{
+	text-align: center; font-family: Tahoma;
+}
